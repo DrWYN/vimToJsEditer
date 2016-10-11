@@ -1,15 +1,26 @@
 参考
 1.[将你的Vim 打造成轻巧强大的IDE](http://yuez.me/jiang-ni-de-vim-da-zao-cheng-qing-qiao-qiang-da-de-ide/)
+
 2.[从零搭建和配置OSX开发环境](http://yuez.me/cong-ling-da-jian-he-pei-zhi-osxkai-fa-huan-jing/)
+
 3.[Using Vim as a JavaScript IDE](http://www.dotnetsurfers.com/blog/2016/02/08/using-vim-as-a-javascript-ide)
+
 4.[ vim 树形目录插件NERDTree安装及简单用法](http://blog.csdn.net/love__coder/article/details/6659103)
+
 5.[vim配置及实现](http://blog.csdn.net/neighbor1000/article/details/8707450)
+
 6.[Tern＋YouCompleteMe实现vim中JS自动补全](http://www.jianshu.com/p/4a8b0e3503fa)
+
 7.[vim中的杀手级插件: vundle](http://zuyunfei.com/2013/04/12/killer-plugin-of-vim-vundle/)
+
 8.[强大的vim配置](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)
+
 9.[Vim配置、插件和使用技巧](http://www.jianshu.com/p/a0b452f8f720)
+
 10[vim——打开多个文件、同时显示多个文件、在文件之间切换 & vimdiff](http://fghjk.blog.51cto.com/4359709/804336)
+
 11[所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+
 
 vim 的经常使用命令
 # 效率
