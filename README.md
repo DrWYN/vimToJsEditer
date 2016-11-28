@@ -21,6 +21,8 @@
 
 11[所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 
+12[Vim配置、插件和使用技巧](http://www.jianshu.com/p/a0b452f8f720/comments/713321)
+
 
 vim 的经常使用命令
 # 效率
